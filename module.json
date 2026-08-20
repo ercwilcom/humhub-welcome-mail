@@ -1,0 +1,25 @@
+{
+    "id": "welcome-mail",
+    "name": "Welcome Mail",
+    "description": "Emails existing members a magic link to set their first password and sign in — for communities whose accounts were created for them, by an import or by an administrator.",
+    "keywords": [
+        "welcome",
+        "magic-link",
+        "password",
+        "onboarding",
+        "invitation",
+        "email"
+    ],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.18"
+    },
+    "homepage": "https://tou.ski",
+    "authors": [
+        {
+            "name": "tou.ski",
+            "homepage": "https://tou.ski",
+            "role": "Developer"
+        }
+    ]
+}
